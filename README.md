@@ -1,10 +1,5 @@
 # Week 6: Deploying Metabase on Amazon ECS with RDS PostgreSQL
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/12f88ff2-f671-4e2d-b906-6ee55f2134a8" />
-<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/759e2b07-f0eb-40ae-8e73-f2a596b0f805" />
-<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/ffe48352-3b00-42ce-9c71-4c3d7027f454" />
-<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/3d4a76e0-a7b1-4ac7-b84e-65aa2a243420" />
-<img width="1904" height="1066" alt="Screenshot 2025-08-12 110746" src="https://github.com/user-attachments/assets/4f1e2107-c7b9-4554-a053-b985b04febce" />
-<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/8a810341-05fe-4c15-adc5-9eea4d4dcde4" />
+
 
 ## Task Overview
 
@@ -201,3 +196,11 @@ After successful deployment:
 - [Metabase Documentation](https://www.metabase.com/docs/)
 - [AWS ECS Fargate Guide](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html)
 - [RDS PostgreSQL Guide](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_PostgreSQL.html)
+
+
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/12f88ff2-f671-4e2d-b906-6ee55f2134a8" />
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/759e2b07-f0eb-40ae-8e73-f2a596b0f805" />
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/ffe48352-3b00-42ce-9c71-4c3d7027f454" />
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/3d4a76e0-a7b1-4ac7-b84e-65aa2a243420" />
+<img width="1904" height="1066" alt="Screenshot 2025-08-12 110746" src="https://github.com/user-attachments/assets/4f1e2107-c7b9-4554-a053-b985b04febce" />
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/8a810341-05fe-4c15-adc5-9eea4d4dcde4" />
